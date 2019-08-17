@@ -6,7 +6,7 @@ This is an emulator for a DEC TU-58 block addressable tape system.
 It is wrtten in AVR assembler. 
 
 This project has been ongoing for many years. On the back burner. A few years back
-I got the rom image from a reat TU-58. I disassembled and commented the code.
+I got the rom image from a real TU-58. I disassembled and commented the code.
 (It's on bitsavers) That gave me an outline for my AVR code.
 
 The storage is a single CF card that supports multiple images of 65536 512 byte blocks.
