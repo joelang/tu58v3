@@ -38,6 +38,3 @@ UNIT is restricted to 0 or 1 to prevent corrupting CF card image.
 
 JTAG programming and test connector added.
 
-WARNING:
-Not all vendors agree on which pin is "1" on P7.
-Ignore the silk screen and verify +5 goes to the square pad!
